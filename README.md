@@ -1,5 +1,5 @@
 # Robogames
-Capturing robots efficiently using data visualisation
+Dashboard for capturing robots efficiently using data visualisation
 
 **Visualisation sketch:**
 
