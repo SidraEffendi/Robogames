@@ -1,5 +1,8 @@
 # Robogames
-Dashboard for capturing robots efficiently using data visualisation
+Dashboard for capturing robots efficiently using data visualisation. 
+
+# Description
+The desire is to capture robots with high popularity and strength. Each robot has a unique identifier number which is generated on a provided criteria. The robots are also related to each other which allows us to guess their unique identifier correctly. So, if you guess the unique identifier for the robot correcly or within a close range, the robot is acquired. 
 
 **Visualisation sketch:**
 
